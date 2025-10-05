@@ -5,8 +5,8 @@ setup(
     name="smart-surveillance-system",
     version="1.0.0",
     description="AI-powered surveillance system with face recognition and intruder alerts",
-    author="Your Name",
-    author_email="your.email@gmail.com",
+    author="Vedant",
+    author_email="vedant.kale22@pccoepune.org",
     packages=find_packages(),
     install_requires=[
         "opencv-python>=4.8.0",
