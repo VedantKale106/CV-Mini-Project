@@ -168,6 +168,3 @@ This project is open-source. Contributions, feature requests, and bug reports ar
 
 Built with ❤️ using Python, OpenCV, face_recognition, and deep learning techniques.
 
-***
-
-If you need any further help setting up or customizing the system, feel free to ask!
